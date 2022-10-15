@@ -12,9 +12,6 @@
 - 📫 How to reach me **imadejanaoui@gmail.com**
 
 - ⚡ Fun fact **I am funny and i look forward to learning more and benefiting from others.**
-<p></P>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imade-janaoui" alt="imade-janaoui" /></a> </p>
-
 
 
 <h3 align="left">Connect with me:</h3>
