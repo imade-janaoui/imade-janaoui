@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imade-janaoui&label=Profile%20views&color=0e75b6&style=flat" alt="imade-janaoui" /> </p>
-- 🌱 I’m currently learning **C#,.NET,Python**
+- 🌱 I’m currently learning **Java,Spring,Angular,Python**
 
 - 💬 Ask me about **PHP,JS,MySQL,PL/SQL**
 
